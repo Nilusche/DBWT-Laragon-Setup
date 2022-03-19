@@ -1,2 +1,2 @@
 # DBWT-Laragon-Setup
-<a href="laragon_setup.pdf">Show setup file</a>
+<a href="/Laragon_setup.pdf">Show setup file</a>
