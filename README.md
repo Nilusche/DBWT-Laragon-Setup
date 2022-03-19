@@ -1,2 +1,4 @@
 # DBWT-Laragon-Setup
-<a href="/Laragon_setup.pdf">Show setup file</a>
+Includes a PDF for setting up Laravel projects using Laragon <br>
+(With Composer, PostgreSQL, NPM, Apache, Redis) <br>
+<a href="/Laragon_setup.pdf">Show Setupfile</a>
